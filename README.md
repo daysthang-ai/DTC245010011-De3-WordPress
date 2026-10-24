@@ -8,3 +8,7 @@ Hệ thống triển khai bằng Docker Compose:
 ## Huong dan chay he thong
 1. docker-compose up -d
 2. Truy cap WordPress tai localhost:8080 hoac localhost:8443
+
+## Huong dan chay he thong
+1. docker-compose up -d
+2. Truy cap WordPress tai localhost:8080 hoac localhost:8443
